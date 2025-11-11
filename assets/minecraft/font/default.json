@@ -1,0 +1,18 @@
+{"providers": [
+{"type":"bitmap","file":"hartzcraft:logo.png","ascent":7,"height":44,"chars":["📶"]},
+{"type":"bitmap","file":"hartzcraft:rang/admin.png","ascent":7,"height":8,"chars":["🈹"]},
+{"type":"bitmap","file":"hartzcraft:rang/mod.png","ascent":7,"height":8,"chars":["🈶"]},
+{"type":"bitmap","file":"hartzcraft:rang/streamer.png","ascent":7,"height":8,"chars":["🈚"]},
+{"type":"bitmap","file":"hartzcraft:rang/spieler.png","ascent":7,"height":8,"chars":["🈸"]},
+{"type":"bitmap","file":"hartzcraft:rang/test.png","ascent":7,"height":8,"chars":["🈳"]},
+{"type":"bitmap","file":"hartzcraft:rang/pay2win.png","ascent":7,"height":8,"chars":["💰"]},
+{"type":"bitmap","file":"hartzcraft:frak/gamba.png","ascent":7,"height":8,"chars":["🐼"]},
+{"type":"bitmap","file":"hartzcraft:frak/adler.png","ascent":7,"height":8,"chars":["🦅"]},
+{"type":"bitmap","file":"hartzcraft:frak/uni.png","ascent":7,"height":8,"chars":["📷"]},
+{"type":"bitmap","file":"hartzcraft:frak/nip.png","ascent":7,"height":8,"chars":["🙈"]},
+{"type":"bitmap","file":"hartzcraft:frak/gladiators.png","ascent":7,"height":8,"chars":["🔪"]},
+{"type":"bitmap","file":"hartzcraft:frak/dragons.png","ascent":7,"height":8,"chars":["🐉"]},
+{"type":"bitmap","file":"hartzcraft:frak/cuties.png","ascent":7,"height":8,"chars":["🧸"]},
+{"type":"bitmap","file":"hartzcraft:frak/poro.png","ascent":7,"height":8,"chars":["💅"]},
+{"type":"bitmap","file":"hartzcraft:frak/gear5.png","ascent":7,"height":8,"chars":["⚪"]}
+]}
