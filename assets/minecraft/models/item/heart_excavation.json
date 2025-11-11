@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/heart_excavation",
+    "particle": "minecraft:item/heart_excavation"
+  }
+}

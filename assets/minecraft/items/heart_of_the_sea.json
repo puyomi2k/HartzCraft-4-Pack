@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      { "threshold": 1.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_farming" } },
+      { "threshold": 2.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_foraging" } },
+      { "threshold": 3.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_mining" } },
+      { "threshold": 4.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_fishing" } },
+      { "threshold": 5.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_excavation" } },
+      { "threshold": 6.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_archery" } },
+      { "threshold": 7.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_defense" } },
+      { "threshold": 8.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_fighting" } },
+      { "threshold": 9.0,  "model": { "type": "minecraft:model", "model": "minecraft:item/heart_agility" } },
+      { "threshold": 10.0, "model": { "type": "minecraft:model", "model": "minecraft:item/heart_enchanting" } },
+      { "threshold": 11.0, "model": { "type": "minecraft:model", "model": "minecraft:item/heart_alchemy" } },
+      { "threshold": 12.0, "model": { "type": "minecraft:model", "model": "minecraft:item/heart_global" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/heart_of_the_sea" }
+  }
+}

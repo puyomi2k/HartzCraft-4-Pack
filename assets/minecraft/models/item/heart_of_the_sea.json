@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/heart_of_the_sea" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1.0 },  "model": "minecraft:item/heart_farming" },
+    { "predicate": { "custom_model_data": 2.0 },  "model": "minecraft:item/heart_foraging" },
+    { "predicate": { "custom_model_data": 3.0 },  "model": "minecraft:item/heart_mining" },
+    { "predicate": { "custom_model_data": 4.0 },  "model": "minecraft:item/heart_fishing" },
+    { "predicate": { "custom_model_data": 5.0 },  "model": "minecraft:item/heart_excavation" },
+    { "predicate": { "custom_model_data": 6.0 },  "model": "minecraft:item/heart_archery" },
+    { "predicate": { "custom_model_data": 7.0 },  "model": "minecraft:item/heart_defense" },
+    { "predicate": { "custom_model_data": 8.0 },  "model": "minecraft:item/heart_fighting" },
+    { "predicate": { "custom_model_data": 9.0 },  "model": "minecraft:item/heart_agility" },
+    { "predicate": { "custom_model_data": 10.0 }, "model": "minecraft:item/heart_enchanting" },
+    { "predicate": { "custom_model_data": 11.0 }, "model": "minecraft:item/heart_alchemy" },
+    { "predicate": { "custom_model_data": 12.0 }, "model": "minecraft:item/heart_global" }
+  ]
+}
