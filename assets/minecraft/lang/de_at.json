@@ -3,8 +3,8 @@
     "menu.game": "📶",
     "menu.returnToGame": "Zurück zum Projekt",
     "menu.disconnect": "HartzCraft verlassen",
-    "resourcePack.server.name": "§6Hartz§4Craft §e4 §7Resourcen",
+    "resourcePack.server.name": "🛜 §7Resourcen",
     "multiplayer.downloadingTerrain": "HartzCraft Serverwelt wird geladen...",
-    "multiplayer.unsecureserver.toast": "Bitte überprüfe bei deinen Resource-Packs die Version des Serverpacks regelmäßig.",
+    "multiplayer.unsecureserver.toast": "Bitte überprüfe bei deinen Resource-Packs die Version des Serverpacks regelmäßig. Sollten gewisse Grafiken nicht funktionieren und nur mit einem Kästchen angezeigt werden, versuche die Resourcen mit [F3]+[T] neuzuladen",
     "multiplayer.unsecureserver.toast.title": "Informationen zum Server-Resourcepack"
 }
