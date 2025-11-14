@@ -1,5 +1,6 @@
 {"providers": [
 {"type":"bitmap","file":"hartzcraft:logo.png","ascent":7,"height":44,"chars":["📶"]},
+{"type":"bitmap","file":"hartzcraft:logo-oneline.png","ascent":7,"height":8,"chars":["🛜"]},
 {"type":"bitmap","file":"hartzcraft:rang/admin.png","ascent":7,"height":8,"chars":["🈹"]},
 {"type":"bitmap","file":"hartzcraft:rang/mod.png","ascent":7,"height":8,"chars":["🈶"]},
 {"type":"bitmap","file":"hartzcraft:rang/streamer.png","ascent":7,"height":8,"chars":["🈚"]},
