@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hartzcraft/textures/logo.png" \></p>
+<p align="center"><img src="assets/hartzcraft/textures/logo-oneline.png" \></p>
 
 # Server Resource Pack
 Bereitgestellt von [puyomi2k](https://github.com/puyomi2k) und [UniDoku](https://github.com/unidoku).
