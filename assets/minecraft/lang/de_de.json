@@ -1,8 +1,10 @@
 {
     "title.multiplayer.other": "HartzCraft 4",
-    "resourcePack.server.name": "§6Hartz§4Craft §e4 §7Server-Resourcen",
     "menu.game": "📶",
     "menu.returnToGame": "Zurück zum Projekt",
     "menu.disconnect": "HartzCraft verlassen",
-    "multiplayer.downloadingTerrain": "HartzCraft Serverwelt wird geladen..."
+    "resourcePack.server.name": "§6Hartz§4Craft §e4 §7Resourcen",
+    "multiplayer.downloadingTerrain": "HartzCraft Serverwelt wird geladen...",
+    "multiplayer.unsecureserver.toast": "Bitte überprüfe bei deinen Resource-Packs die Version des Serverpacks regelmäßig.",
+    "multiplayer.unsecureserver.toast.title": "Informationen zum Server-Resourcepack"
 }
