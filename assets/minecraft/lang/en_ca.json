@@ -5,6 +5,6 @@
     "menu.disconnect": "HartzCraft verlassen",
     "resourcePack.server.name": "🛜 §7Resourcen",
     "multiplayer.downloadingTerrain": "HartzCraft wird geladen...",
-    "multiplayer.unsecureserver.toast.title": "Willkommen bei 🛜",
+    "multiplayer.unsecureserver.toast.title": "Willkommen bei §r🛜",
     "multiplayer.unsecureserver.toast": "Überprüfe regelmäßig, ob die Serverrecourcen Up-To-Date sind.\nBei Fehlern bitte versuchen mit [F3]+[T] zu reloaden.\nImmernoch Fehler? Melde es im Discord.\n\n§lViel Spaß beim Spielen :)"
 }
