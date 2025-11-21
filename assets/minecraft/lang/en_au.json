@@ -4,7 +4,7 @@
     "menu.returnToGame": "Zurück zum Projekt",
     "menu.disconnect": "HartzCraft verlassen",
     "resourcePack.server.name": "🛜 §7Resourcen",
-    "multiplayer.downloadingTerrain": "HartzCraft Serverwelt wird geladen...",
-    "multiplayer.unsecureserver.toast": "Bitte überprüfe bei deinen Resource-Packs die Version des Serverpacks regelmäßig. Sollten gewisse Grafiken nicht funktionieren und nur mit einem Kästchen angezeigt werden, versuche die Resourcen mit [F3] + [T] neuzuladen",
-    "multiplayer.unsecureserver.toast.title": "Informationen zum Server-Resourcepack"
+    "multiplayer.downloadingTerrain": "HartzCraft wird geladen...",
+    "multiplayer.unsecureserver.toast.title": "Willkommen bei 🛜",
+    "multiplayer.unsecureserver.toast": "Überprüfe regelmäßig, ob die Serverrecourcen Up-To-Date sind.\nBei Fehlern bitte versuchen mit [F3]+[T] zu reloaden.\nImmernoch Fehler? Melde es im Discord.\n\n§lViel Spaß beim Spielen :)"
 }
